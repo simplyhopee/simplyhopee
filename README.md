@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering Student at Tuskegee University
 
-🤖 Aspiring Robotics Engineer
+🤖 Future Robotics Engineer
 
 🔭 Currently Learning
 - Arduino Programming
