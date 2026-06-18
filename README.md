@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shamira Robinson 👋
 
-<!--
-**simplyhopee/simplyhopee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Tuskegee University
 
-Here are some ideas to get you started:
+🤖 Aspiring Robotics Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Learning
+- Arduino Programming
+- Embedded Systems
+- Onshape CAD
+- AI Fundamentals
+- Cybersecurity Fundamentals
+
+🚀 Projects
+- Mini Security Alarm
+- Smart Gate
+- Smart Trash Can
+- LCD Display System
+
+🏆 Leadership
+- President, Tuskegee University AIAA
+- Girls Who Code College Loop, Founder & President
+
+📫 Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/shamira-robinson-50a48b328/)
