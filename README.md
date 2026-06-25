@@ -11,7 +11,7 @@
 - AI Fundamentals
 - Cybersecurity Fundamentals
 
-## 🚀 Projects
+🚀 Projects
 
 - Robot Radar Scanner
 - Smart Parking Assistant
@@ -22,7 +22,7 @@
 - Servo Motor Sweep
 - LCD Display System
 
-## 🏆 Leadership & Involvement
+ 🏆 Leadership & Involvement
 
 - President, Tuskegee University AIAA Chapter
 - Founder & President, Girls Who Code College Loop
@@ -30,7 +30,7 @@
 - R.E.A.C.H Ambassador
 - NASA Alabama Space Grant Ambassador
 
-## 💻 Technical Interests
+💻 Technical Interests
 
 - Robotics Engineering
 - Embedded Systems
@@ -41,7 +41,7 @@
 - Artificial Intelligence
 - Aerospace Technology
 
-## 🎯 Currently Learning
+🎯 Currently Learning
 
 - Arduino Programming
 - Robotics Fundamentals
@@ -52,7 +52,7 @@
 - Networking Fundamentals
 - Git & GitHub
 
-## 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
 - Arduino
 - C++
@@ -62,13 +62,6 @@
 - Tinkercad
 - Microsoft Office
 - Google Workspace
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/shamira-robinson
-- GitHub: github.com/ShamiraRobinson
-
----
 
 *"Aspiring Robotics Engineer passionate about creating innovative solutions through engineering, automation, and technology."*
 
